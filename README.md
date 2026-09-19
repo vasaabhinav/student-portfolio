@@ -7,3 +7,11 @@ I am Vasa Abhinav, a B.Tech Computer Science and Data Science student interested
 ## Portfolio
 
 This repository contains my academic work, projects, technical skills, and learning activities.
+
+## Skills
+
+- Java
+- Python
+- SQL
+- Git & GitHub
+- Data Science
