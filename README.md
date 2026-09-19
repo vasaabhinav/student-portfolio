@@ -1,7 +1,9 @@
-# My Portfolio
+# Vasa Abhinav - Student Portfolio
 
-This is my personal student portfolio for showcasing my academic work, projects, and technical learning.
+## About Me
 
-# Student Portfolio
+I am Vasa Abhinav, a B.Tech Computer Science and Data Science student interested in software development, data science, and technology.
 
-Welcome to my student portfolio. This repository contains my projects, technical skills, and learning activities.
+## Portfolio
+
+This repository contains my academic work, projects, technical skills, and learning activities.
